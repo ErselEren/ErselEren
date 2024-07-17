@@ -1,12 +1,8 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ersel Celal Eren
 
-Software Engineer
-
-
-- 🔭 I’m currently studying at [Gebze Techincal University](https://www.gtu.edu.tr) 
-- 🌱 I’m currently learning Java, Spring Boot and Microservice Architecture
-- 💬 Ask me about ...
-- 📫 How to reach me: (https://www.linkedin.com/in/erselcelaleren/)
+- 🔭 I’m currently Senior CSE Student at [Gebze Techincal University](https://www.gtu.edu.tr) 
+- 🧠 I’m currently learning Java, Spring Boot and Microservice Architecture
+- 🕵🏻‍♂️  You can check my [resume](https://drive.google.com/file/d/1TV_7_2V8I2ycQQ5ZlJEesJuLaDnTulyq/view?usp=sharing) if you like
 
 ### **Contact:**
 <!-- Social Links -->
