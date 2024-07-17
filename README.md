@@ -81,14 +81,14 @@
     <td align="center" height="108" width="108">
       <br /><strong>Front-End</strong>
     </td>
-    <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Light.svg"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="Bootstrap"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>React Native</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -98,6 +98,15 @@
         alt="React"
       />
       <br /><strong>React</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
     </td>
        <td align="center" height="108" width="108">
       <img
@@ -117,15 +126,7 @@
       />
       <br /><strong>CSS</strong>
     </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Light.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>React Native</strong>
-    </td>
+
 
   </tr>
   <tr>
